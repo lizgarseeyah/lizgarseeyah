@@ -10,7 +10,6 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I architect cloud and AI solutions, with deep focus on **agent lifecycle management** and **low-code security posture**
-- 🛡️ Building **Aegis** — AI agent and low-code governance for regulated enterprises
 - ⚡ Daily driver: **Microsoft Power Platform, Copilot Studio governance, Azure AI, Power Automate, Dataverse**
 - 🤖 Specializing in **agentic automation** and enterprise AI architecture
 - 📍 Based in California
