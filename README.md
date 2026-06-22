@@ -13,7 +13,7 @@
 - 🛡️ Building **Aegis** — AI agent and low-code governance for regulated enterprises
 - ⚡ Daily driver: **Microsoft Power Platform, Copilot Studio governance, Azure AI, Power Automate, Dataverse**
 - 🤖 Specializing in **agentic automation** and enterprise AI architecture
-- 📍 Based in Bakersfield, CA
+- 📍 Based in California
 
 ---
 
